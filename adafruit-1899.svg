@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="51.02px" height="45.35px" viewBox="0 0 51.02 45.35" xml:space="preserve">
+<g id="breadboard" display="none">
+	<path display="inline" fill="#175C7A" stroke="#000000" stroke-miterlimit="10" d="M49.641,37.276c0,6.508-1.348,6.874-7.855,6.874
+		H8.665c-6.508,0-7.856-0.366-7.856-6.874V7.606c0-6.508,1.348-6.874,7.856-6.874h35.084c6.508,0,5.892,0.366,5.892,6.874V37.276z"
+		/>
+	
+		<ellipse id="connector5pad" display="inline" fill="#FFFFFF" stroke="#EBC96C" stroke-miterlimit="10" cx="10.839" cy="39.178" rx="2.835" ry="2.76"/>
+	
+		<ellipse id="connector4pad" display="inline" fill="#FFFFFF" stroke="#EBC96C" stroke-miterlimit="10" cx="18.026" cy="39.028" rx="2.835" ry="2.76"/>
+	
+		<ellipse id="connector3pad" display="inline" fill="#FFFFFF" stroke="#EBC96C" stroke-miterlimit="10" cx="25.185" cy="39.028" rx="2.834" ry="2.76"/>
+	<path id="connector2pad" display="inline" fill="#FFFFFF" stroke="#EBC96C" stroke-miterlimit="10" d="M35.261,39.028
+		c0-1.526-1.27-2.76-2.836-2.76c-1.569,0-2.833,1.233-2.833,2.76c0,1.521,1.264,2.76,2.833,2.76
+		C33.991,41.788,35.261,40.55,35.261,39.028z"/>
+	<path id="connector1pad" display="inline" fill="#FFFFFF" stroke="#EBC96C" stroke-miterlimit="10" d="M42.46,39.028
+		c0-1.526-1.27-2.76-2.836-2.76c-1.568,0-2.833,1.233-2.833,2.76c0,1.521,1.265,2.76,2.833,2.76
+		C41.19,41.788,42.46,40.55,42.46,39.028z"/>
+	<path id="connector5pad_2_" display="inline" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" d="M10.839,6.911
+		c0-2.344-1.902-4.252-4.254-4.252c-2.347,0-4.251,1.908-4.251,4.252s1.904,4.252,4.251,4.252
+		C8.937,11.163,10.839,9.255,10.839,6.911z"/>
+	<path id="connector5pad_1_" display="inline" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" d="M48.64,6.91
+		c0-2.344-1.902-4.252-4.255-4.252c-2.346,0-4.25,1.908-4.25,4.252s1.904,4.252,4.25,4.252C46.737,11.163,48.64,9.254,48.64,6.91z"
+		/>
+	
+		<rect x="19.189" y="15.238" display="inline" fill="#454545" stroke="#000000" stroke-miterlimit="10" width="13.237" height="10.432"/>
+</g>
+<g id="pcb" display="none">
+	<g id="silkscreen" display="inline">
+		
+			<rect x="0.769" y="0.683" fill="none" stroke="#FFFFFF" stroke-width="0.7087" stroke-miterlimit="10" width="49.482" height="43.984"/>
+	</g>
+	<g id="copper0" display="inline">
+		<circle id="connector5pad_3_" fill="#FFFFFF" stroke="#EBC96C" stroke-miterlimit="10" cx="10.407" cy="41.626" r="0.992"/>
+		<circle id="connector4pad_1_" fill="#FFFFFF" stroke="#EBC96C" stroke-miterlimit="10" cx="17.648" cy="41.626" r="0.992"/>
+		<circle id="connector3pad_1_" fill="#FFFFFF" stroke="#EBC96C" stroke-miterlimit="10" cx="24.807" cy="41.626" r="0.992"/>
+		<circle id="connector2pad_1_" fill="#FFFFFF" stroke="#EBC96C" stroke-miterlimit="10" cx="32.048" cy="41.626" r="0.992"/>
+		<circle id="connector1pad_1_" fill="#FFFFFF" stroke="#EBC96C" stroke-miterlimit="10" cx="39.248" cy="41.625" r="0.992"/>
+	</g>
+</g>
+<g id="schematic">
+	
+		<rect x="6.472" y="5.253" fill="none" stroke="#000000" stroke-width="0.7087" stroke-miterlimit="10" width="37.406" height="23.597"/>
+	<line fill="none" stroke="#000000" stroke-width="0.7087" stroke-miterlimit="10" x1="9.303" y1="28.85" x2="9.303" y2="39.432"/>
+	
+		<line fill="none" stroke="#000000" stroke-width="0.7087" stroke-miterlimit="10" x1="17.152" y1="28.85" x2="17.152" y2="39.432"/>
+	
+		<line fill="none" stroke="#000000" stroke-width="0.7087" stroke-miterlimit="10" x1="25.001" y1="28.85" x2="25.001" y2="39.432"/>
+	
+		<line fill="none" stroke="#000000" stroke-width="0.7087" stroke-miterlimit="10" x1="32.849" y1="28.85" x2="32.849" y2="39.432"/>
+	
+		<line fill="none" stroke="#000000" stroke-width="0.7087" stroke-miterlimit="10" x1="40.698" y1="28.85" x2="40.698" y2="39.432"/>
+	<text transform="matrix(1 0 0 1 10.6084 11.8921)" font-family="'OCRAStd'" font-size="5.2131">HTU21D-F </text>
+	<text transform="matrix(-4.371139e-08 1 -1 -4.371139e-08 37.0391 14.9033)" font-family="'OCRAStd'" font-size="5.7851">scl</text>
+	<text transform="matrix(-4.371139e-08 1 -1 -4.371139e-08 30.0967 14.9033)" font-family="'OCRAStd'" font-size="5.7851">sda</text>
+	<text transform="matrix(-4.371139e-08 1 -1 -4.371139e-08 23.1543 14.9033)" font-family="'OCRAStd'" font-size="5.7851">gnd</text>
+	<text transform="matrix(-4.371139e-08 1 -1 -4.371139e-08 16.2119 14.9033)" font-family="'OCRAStd'" font-size="5.7851">3v3</text>
+	<text transform="matrix(-4.371139e-08 1 -1 -4.371139e-08 9.27 14.9033)" font-family="'OCRAStd'" font-size="5.7851">vin</text>
+</g>
+</svg>

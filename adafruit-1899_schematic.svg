@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="51.02px" height="45.35px" viewBox="0 0 51.02 45.35" xml:space="preserve">
+
+<g id="schematic">
+
+		<rect x="6.472" y="5.253" fill="none" stroke="#000000" stroke-width="0.7087" stroke-miterlimit="10" width="37.406" height="23.597"/>
+	<line fill="none" stroke="#000000" stroke-width="0.7087" stroke-miterlimit="10" x1="9.303" y1="28.85" x2="9.303" y2="39.432"/>
+
+		<line fill="none" stroke="#000000" stroke-width="0.7087" stroke-miterlimit="10" x1="17.152" y1="28.85" x2="17.152" y2="39.432"/>
+
+		<line fill="none" stroke="#000000" stroke-width="0.7087" stroke-miterlimit="10" x1="25.001" y1="28.85" x2="25.001" y2="39.432"/>
+
+		<line fill="none" stroke="#000000" stroke-width="0.7087" stroke-miterlimit="10" x1="32.849" y1="28.85" x2="32.849" y2="39.432"/>
+
+		<line fill="none" stroke="#000000" stroke-width="0.7087" stroke-miterlimit="10" x1="40.698" y1="28.85" x2="40.698" y2="39.432"/>
+	<text transform="matrix(1 0 0 1 10.6084 11.8921)" font-family="'OCRAStd'" font-size="5.2131">HTU21D-F </text>
+	<text transform="matrix(-4.371139e-08 1 -1 -4.371139e-08 37.0391 14.9033)" font-family="'OCRAStd'" font-size="5.7851">scl</text>
+	<text transform="matrix(-4.371139e-08 1 -1 -4.371139e-08 30.0967 14.9033)" font-family="'OCRAStd'" font-size="5.7851">sda</text>
+	<text transform="matrix(-4.371139e-08 1 -1 -4.371139e-08 23.1543 14.9033)" font-family="'OCRAStd'" font-size="5.7851">gnd</text>
+	<text transform="matrix(-4.371139e-08 1 -1 -4.371139e-08 16.2119 14.9033)" font-family="'OCRAStd'" font-size="5.7851">3v3</text>
+	<text transform="matrix(-4.371139e-08 1 -1 -4.371139e-08 9.27 14.9033)" font-family="'OCRAStd'" font-size="5.7851">vin</text>
+</g>
+</svg>
